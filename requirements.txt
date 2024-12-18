@@ -1,3 +1,5 @@
-openai
 streamlit
+openai
 newspaper3k
+lxml
+python-dotenv  # (if you're using environment variables)
