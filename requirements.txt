@@ -1,5 +1,3 @@
-streamlit
-openai
-newspaper3k
-lxml
-python-dotenv  # (if you're using environment variables)
+openai==0.27.0
+streamlit==1.12.0
+newspaper3k==0.2.8
